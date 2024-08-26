@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm bhuvananithya</h1>
 <h3 align="center">i'm a selftaught graphic designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvananithya" alt="bhuvananithya" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvananithya&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvananithya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bhuvananithya__" target="blank"><img src="https://img.shields.io/twitter/follow/bhuvananithya__?logo=twitter&style=for-the-badge" alt="bhuvananithya__" /></a> </p>
 
@@ -22,6 +21,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvananithya&show_icons=true&locale=en&layout=compact" alt="bhuvananithya" /></p>
+
